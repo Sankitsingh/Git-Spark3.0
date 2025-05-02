@@ -6,4 +6,8 @@ class Spark{
     public void m1(){
         System.out.println("m1");
     }
+
+    public void notifyUserS(){
+        System.out.println("notify");
+    }
 }
