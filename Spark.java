@@ -12,6 +12,6 @@ class Spark{
     }
 
     public void Auth(){
-        System.out.println("Authg");
+        System.out.println("Auth");
     }
 }
